@@ -10,9 +10,6 @@ Functional Architecture for Safety
 .Functional design ensures maintainability and safety.
 .Focus on strong typing, immutability, and composability.
 
-
-# Beach Safety Information App (SafeShores)
-
 A Haskell-based web application powered by the **Scotty** framework that provides essential beach safety information, conservation resources, and interactive guides.
 
 ## 📋 Table of Contents
