@@ -65,7 +65,7 @@ This project, often referred to as "SafeShores" or "Beach Safety Program," is a 
 ### Steps
 1. **Clone/Navigate to the directory**:
    ```bash
-   cd c:/Users/sathw/Desktop/every/myScottyApp
+   cd https://github.com/sathwikchava/Beach-Safety-Haskell-
    ```
 
 2. **Update dependencies**:
